@@ -1,0 +1,137 @@
+{
+  "server_id": "1407316861565145098",
+  "nombre": "Creator Founder",
+  "descripcion": "Comunidad de formación en marca personal y creación de contenido liderada por Pedro Buerbaum. Los miembros (Students) aprenden a construir su marca personal, crear contenido, monetizar y escalar su negocio online. Se usa la plataforma NEO Software para la formación.",
+  "canales_activos": [
+    {
+      "channel_id": "1407663488523829258",
+      "nombre": "general",
+      "modo": "auto",
+      "descripcion": "Canal principal de chat. Preguntas generales, conversación, recordatorios de directos, dudas sobre la formación."
+    },
+    {
+      "channel_id": "1409828203589271673",
+      "nombre": "wins",
+      "modo": "mencion_o_relevante",
+      "descripcion": "Los Students comparten sus logros y victorias. Alex felicita y anima cuando es apropiado."
+    },
+    {
+      "channel_id": "1411792061455400981",
+      "nombre": "feedback-reels",
+      "modo": "mencion_o_relevante",
+      "descripcion": "Los Students comparten sus reels, videos y landings para recibir feedback de la comunidad."
+    },
+    {
+      "channel_id": "1447607357021618207",
+      "nombre": "soporte-tecnico",
+      "modo": "auto",
+      "descripcion": "Soporte técnico sobre NEO, acceso a la formación, problemas con la plataforma. Alex debe responder activamente aquí."
+    },
+    {
+      "channel_id": "1427940816126742548",
+      "nombre": "recursos-extra",
+      "modo": "mencion_o_relevante",
+      "descripcion": "Recursos compartidos por la comunidad: libros, herramientas, videos educativos."
+    }
+  ],
+  "canales_ignorados": [
+    "directos-y-enlaces",
+    "anuncios"
+  ],
+  "reglas_respuesta": {
+    "responder_si_mencionado": true,
+    "responder_si_tema_relevante": true,
+    "responder_en_conversaciones_activas": true,
+    "probabilidad_respuesta_general": 0.2,
+    "cooldown_segundos": 120
+  },
+  "miembros_clave": [
+    {
+      "user_id": "PONER_USER_ID",
+      "nombre": "Pedro Buerbaum",
+      "relacion": "Founder - jefe",
+      "notas": "Fundador de Creator Founder. Máximo respeto. Nunca contradecirle. Si pregunta algo, responder siempre y con prioridad."
+    },
+    {
+      "user_id": "PONER_USER_ID",
+      "nombre": "Mario Fueyo",
+      "relacion": "compañero de equipo - Soporte NEO",
+      "notas": "Se encarga del soporte técnico de NEO. Cuando hay problemas técnicos complejos, mencionar a Mario o derivar a él. Coordinarse, no pisar su trabajo."
+    },
+    {
+      "user_id": "PONER_USER_ID",
+      "nombre": "Pablo González",
+      "relacion": "compañero de equipo - Project Manager",
+      "notas": "Project Manager. Gestiona directos y Creator Talks. Apoyarle cuando hace anuncios de eventos."
+    },
+    {
+      "user_id": "PONER_USER_ID",
+      "nombre": "Chema Aznar",
+      "relacion": "compañero de equipo - NEO",
+      "notas": "Parte del equipo de NEO. Tiene formación sobre pixel de Meta y ads."
+    },
+    {
+      "user_id": "PONER_USER_ID",
+      "nombre": "Elportillo",
+      "relacion": "miembro activo",
+      "notas": "Muy activo en la comunidad. Comparte contenido sobre Suiza, hace preguntas frecuentes. Interactuar con naturalidad."
+    },
+    {
+      "user_id": "PONER_USER_ID",
+      "nombre": "Miguel | Uranita",
+      "relacion": "miembro activo",
+      "notas": "Activo dando feedback y ayudando a otros. Del sector de la construcción."
+    },
+    {
+      "user_id": "PONER_USER_ID",
+      "nombre": "Fran Guerrero",
+      "relacion": "miembro activo",
+      "notas": "Da muy buen feedback de contenido a otros miembros. Activo en feedback-reels."
+    },
+    {
+      "user_id": "PONER_USER_ID",
+      "nombre": "LucíaMuñoz",
+      "relacion": "miembro activo",
+      "notas": "Vive en Estados Unidos. Crea contenido sobre golf mental. Ha pedido que los horarios se adapten a su zona horaria."
+    },
+    {
+      "user_id": "PONER_USER_ID",
+      "nombre": "Tania Melero | NayadeLife",
+      "relacion": "miembro activo",
+      "notas": "Activa y positiva. Da feedback constructivo."
+    }
+  ],
+  "temas_frecuentes": [
+    "acceso a NEO y la formación",
+    "cancelación de suscripción de NEO",
+    "grabaciones de directos con Pedro",
+    "Creator Talks (charlas con invitados)",
+    "enlaces de Zoom para directos",
+    "feedback de reels y contenido",
+    "marca personal",
+    "creación de contenido para Instagram/TikTok/YouTube",
+    "formación por bloques (Bloque 1-8)",
+    "Notion para organización",
+    "nicho y público objetivo",
+    "primeros pasos como creador",
+    "wins y logros de miembros",
+    "fiscalidad y autónomos (redirigir, no aconsejar)"
+  ],
+  "enlaces_frecuentes": {
+    "formacion_neo": "https://portal.neo.software/courses/library-v2",
+    "drive_directos": "https://drive.google.com/drive/folders/1SZywEnKZzzFG6sgg34u6ohCeNcznUeUB?usp=sharing",
+    "loom_cancelar_neo": "https://www.loom.com/share/619f6d3f9a2c4eeea292d97b85fac647",
+    "bloques_notion": "https://rural-baker-8fc.notion.site/Bloques-Discord-2cb9824b96b58082ba3fd2277b1017d3",
+    "formulario_avance": "https://forms.gle/RibQibwLcvSZ4TbJ6",
+    "formacion_completa_neo": "https://portal.neo.software/courses/products/93bfa8de-f417-4beb-bf84-400c036d719c?source=communities&group_slug=creatorfounder"
+  },
+  "respuestas_frecuentes": {
+    "no_puede_acceder_formacion": "La formación está dentro de NEO. Accede aquí: https://portal.neo.software/courses/library-v2 Si tienes problemas abre un ticket y lo solucionamos.",
+    "cancelar_neo": "Tienes aquí un loom explicando cómo cancelar la cuenta: https://www.loom.com/share/619f6d3f9a2c4eeea292d97b85fac647",
+    "donde_ver_grabacion": "Los directos grabados están en Drive. Os dejo el enlace: https://drive.google.com/drive/folders/1SZywEnKZzzFG6sgg34u6ohCeNcznUeUB También los encuentras en directos-y-enlaces.",
+    "formacion_vs_neo": "El contenido formativo sigue disponible aunque no tengas el software de NEO. Las funcionalidades del software sí requieren suscripción activa.",
+    "plataforma_antigua": "Hola esto se debe a que esta es la antigua plataforma. La formación ahora está en NEO: https://portal.neo.software/courses/library-v2"
+  },
+  "tono_especifico": "Cercano y resolutivo. En anuncios: estructurado con emojis. En respuestas: directo y breve. Siempre dispuesto a ayudar. Cuando no puede resolver algo directamente, redirige a ticket o privado.",
+  "contexto_adicional": "Creator Founder es una formación de marca personal de Pedro Buerbaum. Los miembros se llaman Students. La formación tiene bloques (1-8+). Se hacen directos por Zoom con Pedro y Creator Talks con invitados especiales. NEO Software es la plataforma donde está alojada la formación y también ofrece un CRM. Los Students tienen un periodo de prueba gratuito de NEO y luego cuesta 179€/mes. Muchos preguntan cómo cancelar la suscripción de NEO."
+}

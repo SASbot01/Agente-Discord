@@ -1,0 +1,8 @@
+.env
+data/db/
+data/training/
+__pycache__/
+*.pyc
+bot.log
+.venv/
+*.DS_Store
